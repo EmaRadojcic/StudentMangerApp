@@ -6,6 +6,9 @@ public class Runner {
 		Menu menuObj1 = new Menu();
 		menuObj1.start();
 		
+		Student a = new Student();
+		
+		System.out.println(a.studentNames[0]);
 	
 	}
 }
